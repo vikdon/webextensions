@@ -1,0 +1,2 @@
+# webextensions
+WebExtensions for FireFox
